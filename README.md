@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/788b78a4-850b-4ed6-8473-e1f642c9395e)![image](https://github.com/user-attachments/assets/49e35007-3fae-4465-b23b-47363736d878)# 📱 CambiaZo App
+# 📱 CambiaZo App
 
 **CambiaZo** es una aplicación móvil de intercambio y donación de productos, diseñada para promover la economía circular y fomentar el consumo responsable entre comunidades. La app permite a los usuarios publicar artículos, recibir ofertas, chatear con otros usuarios y concretar intercambios o donaciones de forma segura y eficiente.
 
