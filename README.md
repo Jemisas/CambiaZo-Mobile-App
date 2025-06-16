@@ -28,18 +28,6 @@
 
 ---
 
-## 🧪 Monitoreo y Calidad
-
-La app incluye integración con herramientas de monitoreo y calidad para garantizar la estabilidad del sistema y la experiencia del usuario:
-
-- Auditorías de rendimiento con Google Lighthouse
-- Monitoreo de APIs con Postman Monitors
-- Métricas y alertas vía Prometheus & Grafana
-- Captura de errores de frontend con Sentry
-- Notificaciones automáticas vía Jenkins + Slack
-
----
-
 ## 📸 Capturas de pantalla
 
 <div align="center">
