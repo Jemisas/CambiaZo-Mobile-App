@@ -127,4 +127,3 @@ La app incluye integración con herramientas de monitoreo y calidad para garanti
 
 ```bash
 git clone https://github.com/tuusuario/cambiazo-app.git
-cd cambiazo-app
